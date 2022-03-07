@@ -376,14 +376,6 @@
         "name": "안경쓴당"
     },
     {
-        "code": "cm_glasses",
-        "configJson": {
-            "intro": null,
-            "upperimage": ""
-        },
-        "name": "안경쓴당"
-    },
-    {
         "code": "cm_golf",
         "configJson": {
             "intro": null,
