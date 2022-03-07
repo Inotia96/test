@@ -1,0 +1,970 @@
+[
+    {
+        "code": "cm_3dmaking",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "3D메이킹"
+    },
+    {
+        "code": "cm_70",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "X세대당"
+    },
+    {
+        "code": "cm_airplane",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "날아간당"
+    },
+    {
+        "code": "cm_andro",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "안드로메당"
+    },
+    {
+        "code": "cm_app",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "개발한당"
+    },
+    {
+        "code": "cm_applewatch",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "사과시계당"
+    },
+    {
+        "code": "cm_baby",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "육아당"
+    },
+    {
+        "code": "cm_badmin",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "배드민턴당"
+    },
+    {
+        "code": "cm_baseball",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "야구당"
+    },
+    {
+        "code": "cm_basket",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "농구당"
+    },
+    {
+        "code": "cm_bb",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "블랙베리당"
+    },
+    {
+        "code": "cm_bear",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "곰돌이당"
+    },
+    {
+        "code": "cm_bike",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "자전거당"
+    },
+    {
+        "code": "cm_billiards",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "뽀록이당(당구)"
+    },
+    {
+        "code": "cm_blockchain",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "블록체인당"
+    },
+    {
+        "code": "cm_board",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "보드게임당"
+    },
+    {
+        "code": "cm_book",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "활자중독당"
+    },
+    {
+        "code": "cm_bowling",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "볼링친당"
+    },
+    {
+        "code": "cm_bts",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "방탄소년당"
+    },
+    {
+        "code": "cm_camp",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "캠핑간당"
+    },
+    {
+        "code": "cm_car",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "굴러간당"
+    },
+    {
+        "code": "cm_cat",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "냐옹이당"
+    },
+    {
+        "code": "cm_civilize",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "문명하셨당"
+    },
+    {
+        "code": "cm_classic",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "클래시앙"
+    },
+    {
+        "code": "cm_coffee",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "클다방"
+    },
+    {
+        "code": "cm_console",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "콘솔한당"
+    },
+    {
+        "code": "cm_cook",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "요리한당"
+    },
+    {
+        "code": "cm_cookierun",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "쿠키런당"
+    },
+    {
+        "code": "cm_daegu",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "대구당"
+    },
+    {
+        "code": "cm_danger",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "DANGER당"
+    },
+    {
+        "code": "cm_dia",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "디아블로당"
+    },
+    {
+        "code": "cm_dog",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "개판이당"
+    },
+    {
+        "code": "cm_dongsup",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "동숲한당"
+    },
+    {
+        "code": "cm_drone",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "날아올랑"
+    },
+    {
+        "code": "cm_ebook",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "e북본당"
+    },
+    {
+        "code": "cm_edc",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "갖고다닌당"
+    },
+    {
+        "code": "cm_eve",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "이브한당"
+    },
+    {
+        "code": "cm_fashion",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "패셔니앙"
+    },
+    {
+        "code": "cm_fish",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "물고기당"
+    },
+    {
+        "code": "cm_fisher",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "도시어부당"
+    },
+    {
+        "code": "cm_fm",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "FM한당"
+    },
+    {
+        "code": "cm_food",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "맛있겠당"
+    },
+    {
+        "code": "cm_formula1",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "포뮬러당"
+    },
+    {
+        "code": "cm_gemwar",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "젬워한당"
+    },
+    {
+        "code": "cm_girl",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "소시당"
+    },
+    {
+        "code": "cm_girlgroup",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "걸그룹당"
+    },
+    {
+        "code": "cm_glasses",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "안경쓴당"
+    },
+    {
+        "code": "cm_glasses",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "안경쓴당"
+    },
+    {
+        "code": "cm_golf",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "골프당"
+    },
+    {
+        "code": "cm_gta",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "차턴당"
+    },
+    {
+        "code": "cm_gun",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "총쏜당"
+    },
+    {
+        "code": "cm_gym",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "땀흘린당"
+    },
+    {
+        "code": "cm_havehome",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "내집마련당"
+    },
+    {
+        "code": "cm_hearth",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "하스스톤한당"
+    },
+    {
+        "code": "cm_heroes",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "히어로즈한당"
+    },
+    {
+        "code": "cm_instar",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "인스타한당"
+    },
+    {
+        "code": "cm_iot",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "IoT당"
+    },
+    {
+        "code": "cm_iphonien",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "아이포니앙"
+    },
+    {
+        "code": "cm_japanlive",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "일본산당"
+    },
+    {
+        "code": "cm_kara",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "KARA당"
+    },
+    {
+        "code": "cm_keyboard",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "키보드당"
+    },
+    {
+        "code": "cm_ku",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "덕질한당"
+    },
+    {
+        "code": "cm_lang",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "어학당"
+    },
+    {
+        "code": "cm_leather",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "가죽당"
+    },
+    {
+        "code": "cm_lego",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "레고당"
+    },
+    {
+        "code": "cm_linux",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "리눅서당"
+    },
+    {
+        "code": "cm_lol",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "LOLien"
+    },
+    {
+        "code": "cm_mabi",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "Mabinogien"
+    },
+    {
+        "code": "cm_mac",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "MaClien"
+    },
+    {
+        "code": "cm_main",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "임시소모임"
+    },
+    {
+        "code": "cm_main",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "임시소모임"
+    },
+    {
+        "code": "cm_mbike",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "이륜차당"
+    },
+    {
+        "code": "cm_midra",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "미드당"
+    },
+    {
+        "code": "cm_mine",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "땅판당"
+    },
+    {
+        "code": "cm_monhunt",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "헌팅한당"
+    },
+    {
+        "code": "cm_mount",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "오른당"
+    },
+    {
+        "code": "cm_movie",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "영화본당"
+    },
+    {
+        "code": "cm_mtg",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "MTG한당"
+    },
+    {
+        "code": "cm_music",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "소리당"
+    },
+    {
+        "code": "cm_nas",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "나스당"
+    },
+    {
+        "code": "cm_nokien",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "노키앙"
+    },
+    {
+        "code": "cm_note",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "적는당"
+    },
+    {
+        "code": "cm_onair",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "방송한당"
+    },
+    {
+        "code": "cm_oversea",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "바다건너당"
+    },
+    {
+        "code": "cm_pctuning",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "PC튜닝한당"
+    },
+    {
+        "code": "cm_photo",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "찰칵찍당"
+    },
+    {
+        "code": "cm_pic",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "그림그린당"
+    },
+    {
+        "code": "cm_picnic",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "소풍간당"
+    },
+    {
+        "code": "cm_plant",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "심는당"
+    },
+    {
+        "code": "cm_poe",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "패스오브엑자일당"
+    },
+    {
+        "code": "cm_rasp",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "라즈베리파이당"
+    },
+    {
+        "code": "cm_redeem",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "품앱이당"
+    },
+    {
+        "code": "cm_rhythm",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "리듬탄당"
+    },
+    {
+        "code": "cm_rowing",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "노젓는당"
+    },
+    {
+        "code": "cm_sea",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "Sea마당"
+    },
+    {
+        "code": "cm_sim",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "SimSim하당"
+    },
+    {
+        "code": "cm_simsik",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "심야식당"
+    },
+    {
+        "code": "cm_slate",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "윈태블릿당"
+    },
+    {
+        "code": "cm_snow",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "미끄러진당"
+    },
+    {
+        "code": "cm_soccer",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "축구당"
+    },
+    {
+        "code": "cm_solo",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "나혼자산당"
+    },
+    {
+        "code": "cm_star",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "스타한당"
+    },
+    {
+        "code": "cm_steam",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "스팀한당"
+    },
+    {
+        "code": "cm_stock",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "주식한당"
+    },
+    {
+        "code": "cm_surfing",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "파도탄당"
+    },
+    {
+        "code": "cm_swim",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "퐁당퐁당"
+    },
+    {
+        "code": "cm_test",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "테스트당"
+    },
+    {
+        "code": "cm_thinkpad",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "빨콩이당"
+    },
+    {
+        "code": "cm_tiwatch",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "공대시계당"
+    },
+    {
+        "code": "cm_tour",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "여행을떠난당"
+    },
+    {
+        "code": "cm_tpad",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "터치패드당"
+    },
+    {
+        "code": "cm_twit",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "트윗당"
+    },
+    {
+        "code": "cm_vcoin",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "가상화폐당"
+    },
+    {
+        "code": "cm_venture",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "창업한당"
+    },
+    {
+        "code": "cm_vr",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "VR당"
+    },
+    {
+        "code": "cm_watch",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "시계찬당"
+    },
+    {
+        "code": "cm_webos",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "WebOs당"
+    },
+    {
+        "code": "cm_werule",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "소셜게임한당"
+    },
+    {
+        "code": "cm_wine",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "와인마신당"
+    },
+    {
+        "code": "cm_wow",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "WOW당"
+    },
+    {
+        "code": "cm_wp",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "윈폰이당"
+    }
+]
