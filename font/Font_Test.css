@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Font_Test';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://raw.githubusercontent.com/Inotia96/test_clien/main/font/Test.woff2) format('woff2'),
+       url(https://raw.githubusercontent.com/Inotia96/test_clien/main/font/Test.woff) format('woff'),
+       url(https://raw.githubusercontent.com/Inotia96/test_clien/main/font/Test.ttf) format('truetype');
+}
