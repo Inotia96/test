@@ -832,6 +832,14 @@
         "name": "퐁당퐁당"
     },
     {
+        "code": "cm_tennis",
+        "configJson": {
+            "intro": null,
+            "upperimage": ""
+        },
+        "name": "테니스친당"
+    },
+    {
         "code": "cm_test",
         "configJson": {
             "intro": null,
